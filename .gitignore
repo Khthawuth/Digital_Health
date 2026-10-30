@@ -1,0 +1,16 @@
+# Logs
+logs/*.log
+!logs/.gitkeep
+
+# OS and Editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Environment / Temp
+*.tmp
+temp_inspect.php
